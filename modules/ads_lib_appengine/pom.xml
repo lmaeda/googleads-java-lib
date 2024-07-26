@@ -54,7 +54,7 @@
     <dependency>
       <groupId>com.google.api-ads</groupId>
       <artifactId>ads-lib</artifactId>
-      <version>4.15.2-SNAPSHOT</version>
+      <version>4.19.0</version>
     </dependency>
     <!-- Third party dependencies -->
     <dependency>
