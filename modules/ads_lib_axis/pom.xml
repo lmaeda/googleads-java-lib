@@ -98,7 +98,7 @@
     <dependency>
       <groupId>com.google.api-ads</groupId>
       <artifactId>ads-lib</artifactId>
-      <version>4.15.2-SNAPSHOT</version>
+      <version>4.19.0</version>
     </dependency>
 
     <!-- Third party dependencies -->
@@ -139,7 +139,7 @@
       <artifactId>ads-lib</artifactId>
       <scope>test</scope>
       <classifier>tests</classifier>
-      <version>4.15.2-SNAPSHOT</version>
+      <version>4.19.0</version>
     </dependency>
     <dependency>
       <groupId>org.hamcrest</groupId>
